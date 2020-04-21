@@ -1,8 +1,8 @@
 body 
 {
-    background-image: url("aboutme.jpg");
-    background-size: cover;
-      background-repeat: no-repeat;
+    background-image: url("contact.jpg");
+     background-size: cover; 
+     background-repeat: no-repeat;
 }
 h3
 {
@@ -12,6 +12,11 @@ h1
 {
     font-family: 'Aclonica';font-size: 22px;
     text-align: center;
+}
+h2
+{
+    font-family: 'Sofia';font-size: 22px;
+    text-decoration: white;
 }
 ul {
     list-style-type: none;
